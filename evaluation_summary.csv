@@ -1,0 +1,5 @@
+system,ROUGE-1,ROUGE-2,ROUGE-L,unsupported-entity rate ↓,speaker coverage ↑,format validity ↑,avg words,sec / dialogue ↓
+E1 baseline (V0),0.4054,0.2007,0.3211,0.0,0.925,0.3,46.575,0.6443
+Best prompt (V2_few_shot),0.507,0.2612,0.4089,0.0,0.8354,0.775,21.825,0.397
+"Template, concise",0.427,0.1889,0.342,0.0,0.925,0.725,26.3,0.4157
+Final system (JSON summary field),0.4015,0.1622,0.3337,0.0,0.7292,0.975,14.225,1.8183

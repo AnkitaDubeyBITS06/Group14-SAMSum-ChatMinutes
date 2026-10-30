@@ -1,0 +1,57 @@
+[
+  {
+    "type": "function",
+    "function": {
+      "name": "resolve_due_date",
+      "description": "Convert a relative deadline from the chat (e.g. 'tomorrow', 'on Friday', 'next week') into a calendar date.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "expression": {
+            "type": "string",
+            "description": "The deadline words exactly as written in the chat"
+          },
+          "reference_date": {
+            "type": "string",
+            "description": "Today's date, YYYY-MM-DD"
+          }
+        },
+        "required": [
+          "expression",
+          "reference_date"
+        ]
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "create_task",
+      "description": "Create a task in the team tracker for one concrete action item from the conversation.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "Short imperative description of the task"
+          },
+          "assignee": {
+            "type": "string",
+            "description": "Name of the participant who will do it"
+          },
+          "due_date": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "YYYY-MM-DD from resolve_due_date, or null"
+          }
+        },
+        "required": [
+          "title",
+          "assignee"
+        ]
+      }
+    }
+  }
+]

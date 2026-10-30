@@ -1,0 +1,5 @@
+bucket,rougeL,has_unsupported,speaker_coverage
+short (≤5),0.5372,0.0,0.875
+medium (6-10),0.4392,0.0,0.859
+long (11-15),0.3654,0.0,0.7593
+very long (>15),0.3062,0.0,0.8417

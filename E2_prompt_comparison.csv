@@ -1,0 +1,7 @@
+variant,technique,rouge1,rouge2,rougeL,rouge1_P,rouge1_R,avg_words,unsupported_entity_rate,speaker_coverage,constraint_compliance,sec_per_dialogue,avg_prompt_tokens,avg_output_tokens,truncated_rate
+V0_baseline,baseline,0.4054,0.2007,0.3211,0.3089,0.6979,46.575,0.0,0.925,0.3,0.6443,184.625,56.525,0.025
+V1_zero_shot,zero-shot instructed,0.3933,0.1768,0.3057,0.3072,0.6642,44.05,0.0,0.9167,0.35,0.5807,199.1,53.7,0.0
+V2_few_shot,few-shot (static k=2),0.507,0.2612,0.4089,0.5028,0.577,21.825,0.0,0.8354,0.775,0.397,512.1,27.275,0.0
+V3_role_context,role / context,0.4079,0.1931,0.3253,0.3422,0.6459,40.475,0.0,0.9438,0.325,0.58,217.1,49.4,0.0
+V4_constraints,constraint-based,0.4443,0.2093,0.3457,0.4063,0.5854,29.7,0.0,0.8546,0.65,0.4633,265.1,37.725,0.0
+V5_role_constr_rag,role + constraints + retrieved few-shot,0.4819,0.2375,0.3867,0.5234,0.5171,18.575,0.0,0.8288,0.8,0.4384,699.8,23.65,0.0

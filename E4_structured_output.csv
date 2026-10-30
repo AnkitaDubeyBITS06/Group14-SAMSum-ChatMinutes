@@ -1,0 +1,4 @@
+,json_parse_rate,schema_valid_rate,semantic_valid_rate,truncated_rate (finish=length),avg_action_items,summary_rougeL,sec_per_dialogue,repairs_attempted
+naive JSON prompt,0.925,0.0,0.0,0.025,0.0,0.0,1.6725,
+schema-guided (first try),0.975,0.975,0.975,0.025,,,,
+schema-guided + repair,0.975,0.975,0.975,0.025,0.025,0.3337,1.8183,0.025

@@ -1,0 +1,4 @@
+,json_parse_rate,schema_valid_rate,semantic_valid_rate,truncated_rate,sec_per_dialogue
+greedy (τ→0),1.0,1.0,1.0,0.0,1.0916
+τ=0.7 + top-p=0.9 (prose default),1.0,1.0,1.0,0.0,1.1162
+τ=1.5 (anti-pattern for JSON),0.2,0.2,0.1,0.6,4.2839

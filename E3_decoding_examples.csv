@@ -1,0 +1,26 @@
+config,sample,output
+A greedy,1,Warren locked the door.
+A τ=0.3,1,Warren locked the door for Gina.
+A τ=0.3,2,Gina and Warren locked the door.
+A τ=0.3,3,Gina asked Warren if he locked the door and he confirmed that he did.
+A τ=0.7,1,Warren locked the door for Gina.
+A τ=0.7,2,Gina and Warren locked the door.
+A τ=0.7,3,Gina asked Warren if he locked the door and he confirmed that he did.
+A τ=1.0 (pure sampling),1,Warren locked the door for Gina.
+A τ=1.0 (pure sampling),2,"Gina and her husband, Warren, locked the door."
+A τ=1.0 (pure sampling),3,"Gina asked Warren if he had locked the door, and Warren confirmed that he had."
+A τ=1.5,1,Warren locked the door for Gina.
+A τ=1.5,2,"Gina and her husband locked the door, and Warren thanked her for doing so."
+A τ=1.5,3,WarשהelditinthedoorwhileGinformaticsolvetheVenueIssue
+B τ=1.0 + top-k=50,1,Warren locked the door for Gina.
+B τ=1.0 + top-k=50,2,"Gina and her husband, Warren, locked the door."
+B τ=1.0 + top-k=50,3,"Gina asked Warren if he had locked the door, and Warren confirmed that he had."
+B τ=1.0 + top-p=0.9,1,Warren locked the door for Gina.
+B τ=1.0 + top-p=0.9,2,Gina and Warren locked the door.
+B τ=1.0 + top-p=0.9,3,"Gina asked Warren if he had locked the door, and Warren confirmed that he had."
+B τ=1.0 + min-p=0.1,1,Warren locked the door for Gina.
+B τ=1.0 + min-p=0.1,2,Gina and Warren locked the door.
+B τ=1.0 + min-p=0.1,3,"Gina asked Warren if he had locked the door, and Warren confirmed that he had."
+C τ=0.7 + top-p=0.9,1,Warren locked the door for Gina.
+C τ=0.7 + top-p=0.9,2,Gina and Warren locked the door.
+C τ=0.7 + top-p=0.9,3,Gina asked Warren if he locked the door and he confirmed that he did.

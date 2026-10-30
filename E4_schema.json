@@ -1,0 +1,94 @@
+{
+  "$defs": {
+    "ActionItem": {
+      "properties": {
+        "task": {
+          "description": "What has to be done, as a short imperative phrase",
+          "minLength": 3,
+          "title": "Task",
+          "type": "string"
+        },
+        "owner": {
+          "description": "Participant responsible, or 'unassigned'",
+          "title": "Owner",
+          "type": "string"
+        },
+        "due": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Deadline exactly as stated in the chat (e.g. 'tomorrow'), or null",
+          "title": "Due"
+        }
+      },
+      "required": [
+        "task",
+        "owner"
+      ],
+      "title": "ActionItem",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "summary": {
+      "description": "1-2 sentence third-person summary",
+      "maxLength": 500,
+      "minLength": 10,
+      "title": "Summary",
+      "type": "string"
+    },
+    "participants": {
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "title": "Participants",
+      "type": "array"
+    },
+    "key_points": {
+      "items": {
+        "type": "string"
+      },
+      "maxItems": 6,
+      "title": "Key Points",
+      "type": "array"
+    },
+    "decisions": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Decisions",
+      "type": "array"
+    },
+    "action_items": {
+      "items": {
+        "$ref": "#/$defs/ActionItem"
+      },
+      "title": "Action Items",
+      "type": "array"
+    },
+    "sentiment": {
+      "enum": [
+        "positive",
+        "neutral",
+        "negative",
+        "mixed"
+      ],
+      "title": "Sentiment",
+      "type": "string"
+    }
+  },
+  "required": [
+    "summary",
+    "participants",
+    "sentiment"
+  ],
+  "title": "ConversationMinutes",
+  "type": "object"
+}

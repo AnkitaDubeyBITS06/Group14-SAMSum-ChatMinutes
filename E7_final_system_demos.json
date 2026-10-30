@@ -1,0 +1,104 @@
+[
+  {
+    "id": "13727739",
+    "pii_redacted": {},
+    "valid": true,
+    "validation_errors": [],
+    "repaired": false,
+    "minutes": {
+      "summary": "Kelly and John discuss a rent payment issue, with John sending the money to the wrong account.",
+      "participants": [
+        "John"
+      ],
+      "key_points": [
+        "John sent the rent money to the wrong account",
+        "Kelly needs the rent money"
+      ],
+      "decisions": [
+        "John will go to the bank to re-send the money"
+      ],
+      "action_items": [
+        {
+          "task": "John will go to the bank to re-send the money",
+          "owner": "John",
+          "due": "tomorrow"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    "tasks": [
+      {
+        "task_id": "T-001",
+        "title": "John will go to the bank to re-send the money",
+        "assignee": "John",
+        "due_date": "2026-10-17"
+      }
+    ],
+    "tool_trace": [
+      {
+        "round": 0,
+        "tool": "resolve_due_date",
+        "arguments": {
+          "expression": "tomorrow",
+          "reference_date": "2026-10-16"
+        },
+        "result": {
+          "expression": "tomorrow",
+          "date": "2026-10-17",
+          "resolved": true,
+          "rule": "+1 day"
+        }
+      },
+      {
+        "round": 1,
+        "tool": "create_task",
+        "arguments": {
+          "title": "John will go to the bank to re-send the money",
+          "assignee": "John",
+          "due_date": "2026-10-17"
+        },
+        "result": {
+          "status": "created",
+          "task_id": "T-001",
+          "title": "John will go to the bank to re-send the money",
+          "assignee": "John",
+          "due_date": "2026-10-17"
+        }
+      }
+    ],
+    "assistant_message": "Task created successfully.",
+    "timing_s": {
+      "preprocess": 0.0,
+      "minutes": 6.28,
+      "tools": 5.28
+    }
+  },
+  {
+    "id": "13829473",
+    "pii_redacted": {},
+    "valid": true,
+    "validation_errors": [],
+    "repaired": false,
+    "minutes": {
+      "summary": "Cathy realizes she left her sunglasses at Broke's and plans to pick them up at 10 PM.",
+      "participants": [
+        "Cathy",
+        "Broke"
+      ],
+      "key_points": [
+        "Cathy left her sunglasses at Broke's",
+        "Broke agreed to let Cathy pick them up at 10 PM"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "tasks": [],
+    "tool_trace": [],
+    "assistant_message": null,
+    "timing_s": {
+      "preprocess": 0.0,
+      "minutes": 4.55
+    }
+  }
+]

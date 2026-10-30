@@ -1,0 +1,881 @@
+[
+  {
+    "id": "13682349",
+    "dialogue": "Gina: did u lock the door\nWarren: yes\nGina: good, thanks",
+    "validated_minutes": {
+      "summary": "Gina asked Warren if the door was locked and Warren confirmed it was.",
+      "participants": [
+        "Gina",
+        "Warren"
+      ],
+      "key_points": [
+        "Gina asked Warren about the door lock",
+        "Warren confirmed the door was locked"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13682188",
+    "dialogue": "Ty: do you speak French?\nVeronica: no\nTy: pity, I need a translator",
+    "validated_minutes": {
+      "summary": "Ty asks Veronica if she speaks French, but she doesn't, and Ty needs a translator.",
+      "participants": [
+        "Ty",
+        "Veronica"
+      ],
+      "key_points": [
+        "Ty needs a translator",
+        "Veronica doesn't speak French"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "neutral"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13809978",
+    "dialogue": "Tobias: What do you say, we grab a beer after work or something?\nTrevor: You read my mind :P\nTobias: 9 at my place?\nTrevor: sounds like a plan",
+    "validated_minutes": {
+      "summary": "Tobias and Trevor agree to meet at his place after work.",
+      "participants": [
+        "Tobias",
+        "Trevor"
+      ],
+      "key_points": [
+        "Tobias suggests meeting after work",
+        "Trevor agrees to the plan"
+      ],
+      "decisions": [
+        "Agreed to meet at Tobias's place after work"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13682269",
+    "dialogue": "Sue: can you pick the car up after work tomorrow please\nJames: yes and pay?\nSue: yes I will transfer the money in\nJames: ok x",
+    "validated_minutes": {
+      "summary": "Sue asks James to pick up her car after work and pay for it.",
+      "participants": [
+        "Sue",
+        "James"
+      ],
+      "key_points": [
+        "Sue will pay for the car after James picks it up.",
+        "James agrees to pick up the car after work."
+      ],
+      "decisions": [
+        "James agrees to pick up the car after work and pay."
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13865006",
+    "dialogue": "Matt: Do you have Patrick's phone number? He's not picking up my calls...\nMatt: Is he mad at me?\nMary: Sure, here you go: +44 7700 900077\nSusan: He changed his number :)\nMatt: phew, thanks!",
+    "validated_minutes": {
+      "summary": "Matt asks for Patrick's phone number, which he changes, and thanks Mary.",
+      "participants": [
+        "Matt",
+        "Mary",
+        "Susan"
+      ],
+      "key_points": [
+        "Patrick changed his phone number",
+        "Matt thanks Mary"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13829218",
+    "dialogue": "Adam: Did you take the dog for a walk?\nMike: No, I did not have time,\nAdam: Ok, I'll take him with me.",
+    "validated_minutes": {
+      "summary": "Adam agreed to take the dog for a walk.",
+      "participants": [
+        "Adam",
+        "Mike"
+      ],
+      "key_points": [
+        "Adam agreed to take the dog for a walk"
+      ],
+      "decisions": [
+        "Adam agreed to take the dog for a walk"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13680539",
+    "dialogue": "Tim: I'm running late\nGary: when will you be here?\nTim: About twenty past. You go in and just make some small talk, try and delay the main presentation\nGary: I'm on it.",
+    "validated_minutes": {
+      "summary": "Tim is running late and will arrive about twenty past. Gary will make small talk and delay the main presentation.",
+      "participants": [
+        "Tim",
+        "Gary"
+      ],
+      "key_points": [
+        "Tim is running late",
+        "Gary will make small talk and delay the main presentation"
+      ],
+      "decisions": [
+        "Gary will make small talk and delay the main presentation"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13682536",
+    "dialogue": "Jacopo: hey, did you have a favorite dinosaur growing up?\nLudmila: yes, triceratops. why?\nJacopo: i'll tell you why later.",
+    "validated_minutes": {
+      "summary": "Jacopo asks Ludmila about her favorite dinosaur, which she is a triceratops, and then they discuss something later.",
+      "participants": [
+        "Jacopo",
+        "Ludmila"
+      ],
+      "key_points": [
+        "Ludmila has a favorite dinosaur",
+        "Jacopo will tell Ludmila something later"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "neutral"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13821155",
+    "dialogue": "Natalie: Well well weeeeeell, I see somethings going on here at last\nMartin: (Y)\nAdam: any confirmed data?\nAnna: Hello everyone!!! Id love to invite everybody to my bday. I would be extremaly happy if you could come 6th of November at 1930\nMartin: <3\nMargot: <3\nMia: (Y)",
+    "validated_minutes": {
+      "summary": "Anna is inviting everyone to her birthday on November 6th at 19:30.",
+      "participants": [
+        "Natalie",
+        "Martin",
+        "Adam",
+        "Anna",
+        "Margot",
+        "Mia"
+      ],
+      "key_points": [
+        "Anna is inviting everyone to her birthday on November 6th at 19:30"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13611370",
+    "dialogue": "Derek: Judy, r you leaving for the weekend?\nJudy: Nah\nDerek: So can you feed my animals on Friday and Saturday?\nJudy: sure, no problem\nDerek: Thank you :) Maybe on Thursday I would give you my keys?\nJudy: Ok\nDerek: Thanks :) Later I will tell you the details :)\nJudy: surely",
+    "validated_minutes": {
+      "summary": "Derek asks Judy to feed his animals on Friday and Saturday and to give him keys on Thursday.",
+      "participants": [
+        "Derek",
+        "Judy"
+      ],
+      "key_points": [
+        "Derek asks Judy to feed his animals on Friday and Saturday.",
+        "Derek asks Judy to give him keys on Thursday.",
+        "Judy agrees to feed the animals and to give the keys."
+      ],
+      "decisions": [
+        "Derek asks Judy to give him keys on Thursday."
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13680767",
+    "dialogue": "Blair: Remember we are seeing the wedding planner after work\nChuck: Sure, where are we meeting her?\nBlair: At Nonna Rita's\nChuck: Can I order their seafood tagliatelle or are we just having coffee with her? I've been dreaming about it since we went there last month\nBlair: Haha sure why not\nChuck: Well we both remmber the spaghetti pomodoro disaster from our last meeting with Diane\nBlair: Omg hahaha it was all over her white blouse\nChuck: :D\nBlair: :P",
+    "validated_minutes": {
+      "summary": "Participants agreed to meet the wedding planner at Nonna Rita's after work.",
+      "participants": [
+        "Blair",
+        "Chuck"
+      ],
+      "key_points": [
+        "meeting location",
+        "previous meeting issue"
+      ],
+      "decisions": [
+        "no decision"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13611740",
+    "dialogue": "Nadia: heeeeey how are you?\nJannet: hey, I'm cool, we just got up and now we're doing some breakfast :D how are you guys?\nNadia: cool, we just woke up like 20min ago and will eat something too\nJannet: nice :D thank you guys for coming yesterday, it was really nice to have you here, I hope you had fun\nNadia: of course we had, I hope we will repeat it soon :)\nJannet: sure, we just have to wait for the neighbours to forget about us, cause it was fuckin loud yesterday xD\nNadia: hahahah yeah it was\nNadia: but it was really cool, I'm still in a very dancing mood\nJannet: perfect, the next time we're going to the disco then :D\nNadia: sounds cool ;)",
+    "validated_minutes": {
+      "summary": "Participants discussed their recent activities and plans for the future.",
+      "participants": [
+        "Nadia",
+        "Jannet"
+      ],
+      "key_points": [
+        "Nadia woke up and ate breakfast",
+        "Jannet mentioned the loud neighbors",
+        "Nadia had a dancing mood",
+        "Jannet suggested a disco visit"
+      ],
+      "decisions": [
+        "None"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13731481",
+    "dialogue": "Iris: [other]\nIris: My husband is famous!!!\nPete: Oh come on! I've got this 1 interview and it really doesn't make me famous...\nIris: Haha. You don't even realize what this \"1 inteview\" means for my parents.\nIris: They're just like: \"We're glad that you found yourself a decent man\"\nPete: Hahaha. I'm flattered :) I'll be home in 1 hour.",
+    "validated_minutes": {
+      "summary": "Iris discusses her husband's interview with Pete, who is home in 1 hour.",
+      "participants": [
+        "Iris",
+        "Pete"
+      ],
+      "key_points": [
+        "Iris's husband is famous",
+        "Pete's interview"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13727581",
+    "dialogue": "Paula: Why do they make this game with super hard levels?\nStew: No idea. I hate those.\nPaula: It really makes it not fun at all.\nStew: Yep.\nPaula: I just can get past 637 no matter what I do.\nStew: Did you try looking up the cheats online?\nPaula: Brilliant!",
+    "validated_minutes": {
+      "summary": "Paula and Stew discuss the difficulty of a game and the frustration it causes.",
+      "participants": [
+        "Paula",
+        "Stew"
+      ],
+      "key_points": [
+        "Paula finds the game very hard",
+        "Stew dislikes the game",
+        "Paula tries looking up cheats",
+        "Paula successfully completes the game"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13862663",
+    "dialogue": "Colin: Hey I have some news that you would be really interested!(´･ω･`)\nAva: What is it?\nColin: How tall are you you said?\nAva: 158...cm.. why?(-_-メ)\nColin: Congratulations! You are defeated by penguin(☞ﾟヮﾟ)☞\nAva: What are you talking about?\nColin: Penguins' average height is 162cm when they stand up （‐＾▽＾‐）オーホッホ\nColin: So you are officially shorter than penguins☜(⌒▽⌒)☞",
+    "validated_minutes": {
+      "summary": "Colin informs Ava that she is shorter than penguins, which is a surprise.",
+      "participants": [
+        "Colin",
+        "Ava"
+      ],
+      "key_points": [
+        "Ava is shorter than penguins",
+        "Colin surprised Ava"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13680873",
+    "dialogue": "Darcy: have you ever been to Egypt?\nAdam: why would you think Ive been to Egypt?\nDarcy: you travel a lot\nAdam: if you say so, ive only been to a few countries. why do you ask?\nDarcy: Aaron has a connecting flight in Cairo and might leave the airport for a few hours to pass the time.\nAdam: I see. Should be worthwhile as long as hes careful.\nDarcy: thats what im thinking",
+    "validated_minutes": {
+      "summary": "Darcy asks Adam if he has been to Egypt, Adam confirms he hasn't, and they agree to consider Aaron's flight.",
+      "participants": [
+        "Darcy",
+        "Adam"
+      ],
+      "key_points": [
+        "Aaron has a connecting flight in Cairo",
+        "Darcy and Adam agree to consider Aaron's flight"
+      ],
+      "decisions": [
+        "None"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13716564",
+    "dialogue": "Patrick: Any plans for tonight?\nCamille: Nothing. We could go out.\nAmanda: I'm going to a concert.\nCamille: Cool.\nAmanda: In the city park. It's a free event. You can join us!\nCamille: What time are you guys going?\nAmanda: Around 9 p.m.\nCamille: I'll come.\nPatrick: Me too. Later we can go party.",
+    "validated_minutes": {
+      "summary": "Participants agreed to go to the city park concert at 9 p.m. Patrick and Camille will join Amanda.",
+      "participants": [
+        "Patrick",
+        "Camille",
+        "Amanda"
+      ],
+      "key_points": [
+        "Amanda is going to a concert at the city park",
+        "Camille and Patrick will join Amanda"
+      ],
+      "decisions": [
+        "None"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13680401",
+    "dialogue": "Ginger: need some sugar\nGinger: desperately!!!\nPhylis: <lol>\nPhylis: I'm baking a pie\nPhylis: come if u want :D\nGinger: be right there!!!",
+    "validated_minutes": {
+      "summary": "Ginger asks for sugar and Phylis offers to bake a pie, inviting Ginger to join.",
+      "participants": [
+        "Ginger",
+        "Phylis"
+      ],
+      "key_points": [
+        "Ginger needs sugar",
+        "Phylis is baking a pie",
+        "Phylis invites Ginger to join"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13821778",
+    "dialogue": "Emily: fancy a drink after work today?\nKate: sure!\nMarta: Good idea!\nMarta: Where? When?\nEmily: Maybe in the Pub X at the central station at 5.30?\nKate: I may be closer to 6, traffic on my way\nMarta: Fine for me.\nMarta: See you then, Ladies!\nEmily: Bye! see ya :*\nKate: :*",
+    "validated_minutes": {
+      "summary": "Participants agreed to meet at the Pub X at the central station at 5:30 PM.",
+      "participants": [
+        "Emily",
+        "Kate",
+        "Marta"
+      ],
+      "key_points": [
+        "Meet at Pub X at 5:30 PM",
+        "Emily will send the details to Kate and Marta"
+      ],
+      "decisions": [
+        "Agreed to meet at Pub X at 5:30 PM"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13818932",
+    "dialogue": "Clara: Where should we get off?\nBlake: a place called fabro-ficule\nJenny: must be really a shithole\nBlake: it is a bit indeed\nClara: hahahah\nJenny: will you wait for us there?\nBlake: I will, on the platform\nBlake: there's only one platform of course ;)",
+    "validated_minutes": {
+      "summary": "Participants discuss meeting location, with Clara and Blake agreeing on Fabro-ficule, while Jenny expresses skepticism.",
+      "participants": [
+        "Clara",
+        "Blake",
+        "Jenny"
+      ],
+      "key_points": [
+        "Fabro-ficule is the agreed meeting location",
+        "Jenny expresses skepticism about the location"
+      ],
+      "decisions": [
+        "Agreed to meet at Fabro-ficule on the platform"
+      ],
+      "action_items": [],
+      "sentiment": "neutral"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13681191",
+    "dialogue": "Andrea: Hi, Pat, I can't come to work today.\nPatrick: Is everything alright?\nAndrea: My son is sick, I need to take him to the doctor.\nPatrick: Oh, sorry to hear that, I hope he gets better soon.\nAndrea: Thanks. So is it okay with you?\nPatrick: Sure, take care of your boy, we'll be fine without you for the next couple of days!",
+    "validated_minutes": {
+      "summary": "Andrea is unable to come to work due to her son's illness, and Patrick agrees to cover for her.",
+      "participants": [
+        "Andrea",
+        "Patrick"
+      ],
+      "key_points": [
+        "Andrea is unable to come to work",
+        "Patrick agrees to cover for Andrea"
+      ],
+      "decisions": [
+        "None"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13829756",
+    "dialogue": "Lisa: I have to clean the house.\nBob: Yes, it's very dirty.\nLisa: You can help me.\nBob: Why me?\nLisa: Because you helped make it dirty.\nBob: What do you want me to do?\nLisa: I want you to clean the bathroom.\nBob: Oh, that's easy.\nLisa: Clean the sink, the tub, the counter, and the toilet.\nBob: That's a lot of work.\nLisa: Tell me when you finish.\nBob: I don't think so. You'll just give me more work.",
+    "validated_minutes": {
+      "summary": "Lisa asks Bob to clean the bathroom, but Bob thinks it's too much work.",
+      "participants": [
+        "Lisa",
+        "Bob"
+      ],
+      "key_points": [
+        "Lisa wants Bob to clean the bathroom",
+        "Bob thinks Lisa will give him more work"
+      ],
+      "decisions": [
+        "None"
+      ],
+      "action_items": [],
+      "sentiment": "neutral"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13611436",
+    "dialogue": "Lisa: Hello Peter. What have you been doing off late?\nPeter: Bit busy with work.\nLisa: Too much of work, huh?\nPeter: Not really, I’ve been working out\nLisa: Ohh, trying to get in shape?\nPeter: Nah, I don’t have much of weight to lose, just want to improve my health.\nLisa: That’s a good thought. I was also thinking of working out a bit. What do you do? Do you go to a Gym?\nPeter: Yes, I hold a membership with the one near our office.\nLisa: Which exercises do you do regularly?\nPeter: I do weights and run on the treadmill.\nLisa: Besides exercises, I think I need to eat better to help me keep in shape.\nPeter: Another major requirement for good health is sleep. On an average one requires at least 7-8 hours of sleep.\nLisa: There are a lot of things we can do to stay healthy.\nPeter: Yes. One needs to maintain a regime to stay healthy for a long term.",
+    "validated_minutes": {
+      "summary": "Lisa and Peter discuss their health goals and exercise routines.",
+      "participants": [
+        "Lisa",
+        "Peter"
+      ],
+      "key_points": [
+        "Peter holds a gym membership",
+        "Peter does weights and runs on the treadmill",
+        "Lisa wants to eat better",
+        "Peter emphasizes the importance of sleep",
+        "Both agree on the need for a healthy lifestyle"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13731138",
+    "dialogue": "Larry: \"old heads\" will hear insurance and their ears will prick up. This vote isn't about converting people we already have onboard :)\nKirsten: Agreed. And I am more than happy and willing to chat with 'old heads' on the matter. Can talk about 'risk mitigation' and what not.\nLarry: Let me take a look at that email and get back to u\nKirsten: Ok. sounds good. And let me know what you think and I will pull the trigger and post.\nLarry: Nailed it. God damn it. Post it. It's a Sunday\nKirsten: Ok. Now I got to get my husband to sign off on it since we are referencing him. Oh the married life!\nLarry: Mate. They're lucky to have you. Let alone him. Don't forget you're doing them all a gravious favor... Let that be clear.\nKirsten: Lol. Thank you. I appreciate the confidence. I like to stay busy and I love to learn. So I think this will take care of both :)\nLarry: I hear that!\nKirsten: Besides. To be transparent. I honestl don't intend on doing this by myself. I would be a fool not to take input fro Jamie and John. They all have a lot of experience and knowledge in the role.\nLarry: I hear that too. No argument from me. The current BoD has ignored them both. It's insulting.\nKirsten: Legal action seems to be the only thing they understand.\nLarry: Sadly yes. On a different note. I want to see a menorah in the lobby next year\nKirsten: Yes let's try to! I will See if Sara has an extra we can out in the lobby",
+    "validated_minutes": {
+      "summary": "Kirsten and Larry discuss the upcoming vote on insurance and the potential for input from Jamie and John.",
+      "participants": [
+        "Larry",
+        "Kirsten"
+      ],
+      "key_points": [
+        "Kirsten will post the email about insurance",
+        "Larry agrees to take a look at the email",
+        "Kirsten will get her husband's signature for the email",
+        "Larry appreciates Kirsten's willingness to take input from Jamie and John",
+        "Larry wants a menorah in the lobby next year"
+      ],
+      "decisions": [
+        "Kirsten will post the email about insurance",
+        "Larry will take a look at the email",
+        "Kirsten will get her husband's signature for the email",
+        "Larry will appreciate Kirsten's willingness to take input from Jamie and John",
+        "Larry wants a menorah in the lobby next year"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13728300",
+    "dialogue": "Jake: What are your plans for the day?\nOlivia: I haven't really got anything planned. There are some things I should do which I haven't looked at for a while\nJake: Like what?\nOlivia: I ought to do my accounts. At least get all the incoming and outgoing invoices sorted by months.\nJake: Tax filing is a long way off.\nOlivia: I know, but doing it all at the last minute is a dreadful headache.\nJake: Anything else?\nOlivia: I also have a few videos I need to upload to YouTube.\nJake: Already ready or you still need to do post-production?\nOlivia: I don't really do much by way of post-production. I'm not exactly Steven Spielberg.\nJake: I do, but I dont always have time to do much.\nOlivia: If I put in any music I always get a copyright strike and someone else is taking the ad revenue\nJake: Yeah. And some of those claims are purely speculative. One time I put on one of my own pieces and it was challenged by Sony Music\nOlivia: No way!\nJake: It's true. On the form you fill in to counter the claim I said if Sony want to make me one of their signed artists, that's fine. Otherwise to get they paws off of my music.",
+    "validated_minutes": {
+      "summary": "Olivia and Jake discuss Olivia's plans for the day, including accounts and YouTube videos, while Jake mentions tax filing and copyright issues.",
+      "participants": [
+        "Jake",
+        "Olivia"
+      ],
+      "key_points": [
+        "Olivia needs to sort invoices by months",
+        "Olivia has videos to upload to YouTube",
+        "Jake mentions tax filing and copyright issues"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "neutral"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13728157",
+    "dialogue": "Callan: Something's wrong with my Samsung S8.\nWade: What, exactly?\nCallan: All I get is a black screen.\nWade: Did you drop it or something?\nCallan: I think I know, this has happened before.\nWade: It did? What happened before?\nCallan: It overheats and then it takes a while for it to restart again..\nWade: That sucks.. Be carefull with the battery, it can be dangerous.\nCallan: It sure can, but I'm going to the store and let them see it. It's still under warranty.\nWade: Will you lose all your stuff?\nCallan: No, I always back up my files.",
+    "validated_minutes": {
+      "summary": "Callan reports his Samsung S8 overheating and restarting, suggesting he'll take it to the store for warranty.",
+      "participants": [
+        "Callan",
+        "Wade"
+      ],
+      "key_points": [
+        "Callan's Samsung S8 overheats and restarts",
+        "Callan will take it to the store for warranty"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13731456",
+    "dialogue": "Frank: wat are u doing??\nAndy: watching Arrow B)\nFrank: dont u have a quiz tomorrow :/\nAndy: yeah, so? :3\nFrank: so go study for it\nAndy: its a small quiz\nFrank: so it doesnot matter??\nAndy: it does, but ..\nFrank: but??\nAndy: i'll study for it tomorrow\nFrank: yea like ur gonna wake up on time for that -_-\nAndy: dude your not my dad\nFrank: -_-",
+    "validated_minutes": {
+      "summary": "Andy agrees to study for the quiz tomorrow.",
+      "participants": [
+        "Andy"
+      ],
+      "key_points": [
+        "Andy agrees to study for the quiz tomorrow"
+      ],
+      "decisions": [
+        "Andy agrees to study for the quiz tomorrow"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13728493",
+    "dialogue": "Angie: Hello. I'd like to make an appointment.\nMs. Quinn: Hello. Of course. What's your medical issue?\nAngie: It's kind of private...\nMs. Quinn: I understand. No chats are recorded. And I need to know what you're coming in with to direct you to the correct doctor.\nAngie: Well, fine. I have severe stomach pain.\nMs. Quinn: When did it start?\nAngie: Like an hour ago. I took some pills but to no avail.\nMs. Quinn: I understand. Do you have your doctor?\nAngie: Yes. Doctor Cartman.\nMs. Quinn: He's not in today. Doctor McCormick can see you in an hour. Will that be fine?\nAngie: Yes, thank you. I'm on my way.\nMs. Quinn: I've signed you up and I'll tell the doctor you're coming.",
+    "validated_minutes": {
+      "summary": "Angie makes an appointment with Doctor McCormick due to severe stomach pain.",
+      "participants": [
+        "Angie",
+        "Ms. Quinn"
+      ],
+      "key_points": [
+        "Angie has severe stomach pain",
+        "Doctor Cartman is not available",
+        "Doctor McCormick can see Angie in an hour"
+      ],
+      "decisions": [
+        "None"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13820950",
+    "dialogue": "Maria: Who's gonna be at IMF lecture tomorrow? We can discuss all remaining questions after and do the calculations?\nAlexander: I don't attend that class, but it is fine by me to meet\nSarah: I will not be there, sorry. I am working\nMartha: So when? We are due on Monday\nMartha: That doesn't leave many options\nAlexander: On Saturday I already have to meet for another presentation, so my option is Friday afternoon or tomorrow\nSarah: Tomorrow and on Friday I am available from 5pm, during the weekend for the whole day\nLawrence: I am meet after class anytime or make time over the weekend if needed\nSarah: So can we meet tomorrow evening? 17:15?\nAlexander: It is fine by me\nLawrence: I will be late, but you can start without me",
+    "validated_minutes": {
+      "summary": "Participants agreed to meet tomorrow evening at 17:15.",
+      "participants": [
+        "Alexander",
+        "Sarah",
+        "Lawrence"
+      ],
+      "key_points": [
+        "Alexander will meet on Friday afternoon or tomorrow",
+        "Sarah is available from 5pm on Friday",
+        "Lawrence will be late but can start without him"
+      ],
+      "decisions": [
+        "Agreed to meet tomorrow evening at 17:15"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13717198",
+    "dialogue": "Ricky: Did u guys see what's going on outside?\nShelly: A real blizzard!\nTom: Haven't seen such weather in yrs!\nRicky: This reminds me of a time when I was hiking in the mountains.\nShelly: U went hiking?\nTom: Yeah. What's so weird about it?\nRicky: U don't strike us as the type.\nTom: Well, I did. It was a couple yrs back, I admit. I was still a student and we went as a group of friends to the mountains.\nShelly: How many of u were there?\nTom: I think 5 or 6. Myself included.\nRicky: So what happened?\nTom: We rented a cabin in the wild. We wanted to have a weekend away.",
+    "validated_minutes": {
+      "summary": "Participants discuss a blizzard and Tom's past hiking experience.",
+      "participants": [
+        "Ricky",
+        "Shelly",
+        "Tom"
+      ],
+      "key_points": [
+        "A real blizzard is happening outside.",
+        "Tom went hiking in the mountains a couple of years ago with 5 or 6 friends.",
+        "Tom rented a cabin in the wild for a weekend away."
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13682461-1",
+    "dialogue": "Dick: We're going to the apt now, wanna come and see it too?\nFrank: Yeah, plus I can talk you into buying it, so we could be neighbours :)\nDick: You know which one it is right? It's 32/3\nFrank: Ok, thanks. I know all the apts in building 32 are for sale, but I didn't know which one you wanted to buy.\nDick: It's the big on with the terrace, around 85 m\nFrank: Grrr.... I'm jealous cause mine's only 65.\nDick: :)\nFrank: If you decide to buy it, I have a contractor that does everything, and he's dirt cheap too!\nDick: Cool, I'll be putting most of my cash in as a down payment, so I won't have much left for renovations.\nFrank: How much do you have, 10% or 15%.\nDick: We're putting down 10. We can get quite a good mortgage rate apparently.\nFrank: Alright, sounds good. How many apts have you seen already?\nDick: This will be the first one in this neighbourhood.\nFrank: But in total?\nDick: 5. We saw 2 last week and 3 last month, but nothing really appealing,\nFrank: You're gonna love my area. It's so peaceful and tranquil.\nDick: I'm gonna have to liven up the place then :)\nFrank: Ok, whatever. Don't forget to bring a measure. Do you have one of those electronic ones?\nDick: No\nFrank: I'll bring one then. They're super cool and easy to use. You can plan each room by knowing the dimensions.\nDick: Ok, great. See you in 30 min.\nFrank: Ok",
+    "validated_minutes": {
+      "summary": "Frank and Dick are discussing buying an apartment in building 32, with Dick planning to buy the big one with a terrace.",
+      "participants": [
+        "Dick",
+        "Frank"
+      ],
+      "key_points": [
+        "Dick plans to buy an apartment in building 32",
+        "Frank suggests buying a contractor to do renovations",
+        "Dick is putting down 10% for the down payment"
+      ],
+      "decisions": [
+        "Dick and Frank agree to meet in 30 minutes"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13819911",
+    "dialogue": "Matt: results should be announced soon\nMatt: probably today\nOliver: they posted it\nOliver: [other]\nPeter: I didn't get into Stanford :(\nMatt: let me see\nMatt: yup, I did\nOliver: me too\nOliver: barely\nPeter: I'm happy for you guys\nMatt: chin up! there are many other options\nOliver: exactly, don't give up\nPeter: thanks guys, that means a lot\nPeter: send your documents asap\nPeter: otherwise you'll stuck in the queue\nMatt: thanks for a heads-up\nOliver: yea, we owe you one\nPeter: I have to look for other university\nPeter: see ya\nMatt: bye",
+    "validated_minutes": {
+      "summary": "Participants discussed results of a test, Oliver and Matt both got into Stanford, and Peter expressed disappointment but thanked the others.",
+      "participants": [
+        "Matt",
+        "Oliver",
+        "Peter"
+      ],
+      "key_points": [
+        "Oliver and Matt got into Stanford",
+        "Peter expressed disappointment but thanked the others"
+      ],
+      "decisions": [
+        "None"
+      ],
+      "action_items": [
+        {
+          "task": "Send documents asap",
+          "owner": "Peter",
+          "due": null
+        }
+      ],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13863081",
+    "dialogue": "Jackie: My sister called me she got pregnant.(°◇°)\nDeadrana: Wow. awesome! ヽ(^。^)ノ\nJackie: But I am a bit worried about her.(ーー゛)(ーー゛)\nDeadrana: Why? As I know your sister is healthy. Does she have any problem?\nJackie: No, no. Of course not.\nJackie: You know nowadays having kids and raise them takes a lot of money for whole your life\nDeadrana: That’s true.\nJackie: But I don't think my brother-in-law earns enough money for his kids.\nDeadrana: At least he doesn’t have any debt.\nDeadrana: I understand you are worried about your sister (・へ・)\nDeadrana: Cause she is your sister but your brother-in-law is hardworking guy. 🙂🙂\nDeadrana: Don’t worry too much.🙂\nJackie: My sister seemed also worried while she was talking about her pregnancy.\nDeadrana: I can imagine....🙁🙁\nJackie: Because her plan was to have a baby 2 years later.\nJackie: So it is like, so to speak, well, an accident.😢😢😢\nDeadrana: I understand. But life isn’t going only as you expected. Right?\nDeadrana: Maybe you can just say only bright future.\nJackie: Yeah..I guess you’re right. <_<<_<<_<\nJackie: Sometimes I feel lucky that I didn't get married yet.ヽ(´ー｀)┌",
+    "validated_minutes": {
+      "summary": "Jackie's sister called and Jackie is worried about her, while Deadrana reassures her.",
+      "participants": [
+        "Jackie",
+        "Deadrana"
+      ],
+      "key_points": [
+        "Jackie's sister called and Jackie is worried about her.",
+        "Deadrana reassures Jackie.",
+        "Jackie feels lucky that she didn't get married yet."
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "neutral"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13829083",
+    "dialogue": "Kate: I just had a fight with Chris :/\nMary: Oh no, not again\nKate: It's not me who started it. I don't know why he says certain stuff, it seems like he's doing it on purpose\nMary: What was it this time?\nKate: Same thing, as always. Really, he knows what I think and I know what he thinks so I don't bring up certain things. I don't want to argue, but if it keeps happening, I don't see the point of talking to him\nKate: I'm angry every single time I talk with him\nMary: Eh, I don't get why he keeps doing it. What did he say?\nKate: I don't want to get worked up over it again, but really usual stuff. He watched a programme about the refugees and went on a rant about it\nMary: oh god\nKate: right?! I don't know why I'm still talking with him. I tried to talk some sense into him, apparently with no luck\nMary: What did you tell him?\nKate: What I usually tell him. He was an immigrant once, he was working abroad, I sent him all the data and research, statistics, everything.\nMary: I'm afraid Chris may be too pig-headed for that\nKate: Pfff I bet he didn't even read anything. He's just watching the nationalists, Trump and all those idiots, listens to everything they're saying on the telly instead of just thinking for once\nMary: I know, to be honest I kind of avoid these subjects when I'm talking with him\nKate: Well, I try to as well, but as you can see he can't stop himself\nKate: I know he's our friend and we go out often, but I'm not sure I can do it any more, I don't want be friends with someone who thinks that Mexican children are worse and that they should be kept away from the US\nMary: Oh my god he said that?\nKate: Yes :/\nMary: Jesus, I knew he has strong views, but to say something like that? That's a bit too much\nKate: You're telling me this. I think we should reconsider this let's say friendship, because if every conversation will lead to something like this, I'm not interested in staying in touch with him\nMary: No wonder",
+    "validated_minutes": {
+      "summary": "Kate and Mary discuss Chris's behavior and decide to reconsider their friendship.",
+      "participants": [
+        "Kate",
+        "Mary"
+      ],
+      "key_points": [
+        "Chris's behavior is causing tension in their relationship",
+        "They decide to reconsider their friendship"
+      ],
+      "decisions": [
+        "Reconsider their friendship"
+      ],
+      "action_items": [],
+      "sentiment": "negative"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13821284",
+    "dialogue": "Abby: Have you talked to Miro?\nDylan: No, not really, I've never had an opportunity\nBrandon: me neither, but he seems a nice guy\nBrenda: you met him yesterday at the party?\nAbby: yes, he's so interesting\nAbby: told me the story of his father coming from Albania to the US in the early 1990s\nDylan: really, I had no idea he is Albanian\nAbby: he is, he speaks only Albanian with his parents\nDylan: fascinating, where does he come from in Albania?\nAbby: from the seacoast\nAbby: Duress I believe, he told me they are not from Tirana\nDylan: what else did he tell you?\nAbby: That they left kind of illegally\nAbby: it was a big mess and extreme poverty everywhere\nAbby: then suddenly the border was open and they just left\nAbby: people were boarding available ships, whatever, just to get out of there\nAbby: he showed me some pictures, like [photo]\nDylan: insane\nAbby: yes, and his father was among the people\nDylan: scary but interesting\nAbby: very!",
+    "validated_minutes": {
+      "summary": "Participants learned about Miro's Albanian background and the story of his father's immigration.",
+      "participants": [
+        "Abby",
+        "Dylan",
+        "Brandon",
+        "Brenda"
+      ],
+      "key_points": [
+        "Miro's father came from Albania to the US in the early 1990s.",
+        "Miro speaks only Albanian with his parents.",
+        "Miro's father was among the people who left Albania illegally.",
+        "Miro showed pictures of the immigration process.",
+        "Participants found the story fascinating and interesting."
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13829183",
+    "dialogue": "Autumn: u sewn anything?\nAutumn: show me show me!! :D\nAutumn: [gif]\nIsrael: no :(\nIsrael: haven't had the time yet ;(\nAutumn: ooh :(\nAutumn: u need to have pririorities in life!\nAutumn: like me - i haven't checked the tests for a month because the dress wouldn't sew itself :D\nIsrael: you've sewn a dres??\nIsrael: you didn't show it to me\nAutumn: oh didn't i?\nAutumn: there will be some photos on the site soon so you'll see it:)\nIsrael: sure will! can't wait!:D\nAutumn: [other]\nAutumn: haven't i showed you this?\nIsrael: noo!! it's wonderful!!\nAutumn: thanks :)\nIsrael: can't wait to see the whole dress! :)",
+    "validated_minutes": {
+      "summary": "Israel is impressed by Autumn's sewing skills and excited about the dress.",
+      "participants": [
+        "Autumn",
+        "Israel"
+      ],
+      "key_points": [
+        "Israel is impressed by Autumn's sewing skills",
+        "Autumn has sewn a dress",
+        "Israel is excited about the dress"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13829937",
+    "dialogue": "Nathan: [video]\nAaron: OMG!!!\nAaron: 😂😂😂😂\nAaron: looool\nAaron: do you know her mate? 🤣🤣\nAaron: my cat's face looks like that when he's taking a dump..🤣🤣🤣\nAaron: [gif]\nAaron: the angels must be weeping 🤭🤭🤭\nAaron: [gif]\nAaron: [gif]\nNathan: Hahahaha\nNathan: She's having a spiritual moment 😉\nNathan: No clue mate, Dan sent it over\nNathan: A tragedy to say the least 😂😂\nAaron: [gif]\nAaron: looking for Jesus\nNathan: 😂😂😂\nAaron: hilarious..hahahaha",
+    "validated_minutes": null,
+    "repaired": true,
+    "remaining_errors": [
+      "JSON parse error: no JSON object found in output"
+    ]
+  },
+  {
+    "id": "13865165",
+    "dialogue": "Adam: My friend told me he saw Tim with a guy.\nNate: And?\nAdam: [photo]\nNate: omg\nJulia: Yeah, what a shocker\nAdam: ??? You knew?!\nJulia: I thought everyone knew\nNate: I had no idea\nNate: Did he tell you anything?\nJulia: That he’s gay? God no\nAdam: Why didn’t you tell us?\nJulia: First: I assumed you knew\nJulia: Second: Why would I? it’s not my business\nNate: I think he should’ve told us ;/ not cool\nAdam: yeah, I made a completely idiot out of myself defending him\nJulia: Against whom? I’m not surprised he didn’t tell you\nNate: Well, it’s not fair, we’re his friends\nJulia: And? Does it change anything?",
+    "validated_minutes": {
+      "summary": "Adam's friend saw Tim with a guy, leading to a discussion about Tim's sexuality and the group's reaction.",
+      "participants": [
+        "Adam",
+        "Nate",
+        "Julia"
+      ],
+      "key_points": [
+        "Adam's friend saw Tim with a guy",
+        "Julia assumed Adam knew",
+        "Julia didn't tell them because it's not her business",
+        "Nate thinks Tim should've told them",
+        "Adam made a mistake defending Tim"
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "neutral"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13716336",
+    "dialogue": "James: hi girls! When are you flying to Japan?\nMary: in a week! unbelievable 🎉\nPatricia: I can't believe either.\nPatricia: I am also increasingly scared\nMary: you're such an alarmist!\nJames: But scared of what??\nPatricia: the long flight, earth-quakes\nPatricia: God, and tsunamis!\nJames: hahaha, you're really a damn alarmist\nJames: this is so exaggerated, are you serious?\nPatricia: James, I almost never travel, I'm afraid really\nJames: Listen, nothing will happen. First of all the earthquakes happen rarely, even in Japan and only in certain places\nJames: it's not like the whole country is shaking all the time\nMary: I'm telling her this all the time, but it's pointless\nJames: And, most of all, Japanese have amazing architecture because of their experiences with earthquakes. Their cities are super safe\nPatricia: What about tsunamis?\nJames: Are you going to be at the coast even?\nPatricia: Mary, are we?\nMary: I doubt. maybe for 2 hours somewhere close to Tokyo\nJames: So I don't think the next tsunami in Japan will happen exactly at that place and time, relax and enjoy\nJames: Japan is really an amazing country.\nPatricia: Thanks James :)",
+    "validated_minutes": {
+      "summary": "James reassures Patricia and Mary about their upcoming trip to Japan, emphasizing the safety of the country and its earthquake-resistant architecture.",
+      "participants": [
+        "James",
+        "Mary",
+        "Patricia"
+      ],
+      "key_points": [
+        "James reassures Patricia and Mary about their trip to Japan.",
+        "James emphasizes the safety of Japan due to its earthquake-resistant architecture.",
+        "Patricia and Mary are relieved and grateful for James's reassurance."
+      ],
+      "decisions": [],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  },
+  {
+    "id": "13819277",
+    "dialogue": "Katy: Hey Carlton\nAna: Hey Carlos\nCarlton: 😹\nCarlton: What are you up to? Any plans for the weekend?\nAna: Yep. We’re going to see this film by Lola Arias actually. You know her, right?\nCarlton: Yes, she’s pretty famous actually and she’s done some work on my subject. I’ve seen her play about the Malvinas last year - it was v good\nAna: Yeah, Katy told me. We thought you might be interested in joining us because the film is actually on the making of the play you saw 😂\nKaty: It’s a multi-layered cultural sandwich we’ve got for you Carlos\nCarlton: Sounds delicious. Where and when are we meeting?\nAna: Just come to ours for an early dinner/drinks and then we’ll grab an uber\nKaty: Ana wants to avoid you getting lost on your way and/or being LATE\nCarlton: Ha ha ha sounds good to me\nKaty: So perhaps you could drop by at like 7. On Saturday!!\nCarlton: Erm, sorry - Saturday is fully booked\nCarlton: Just joking 😂 I’ll see you then\nAna: 😂 cool\nKaty: 😍😍😍😘😘😘",
+    "validated_minutes": {
+      "summary": "Ana and Carlton agree to meet for dinner on Saturday at 7 PM.",
+      "participants": [
+        "Ana",
+        "Carlton"
+      ],
+      "key_points": [
+        "Ana and Carlton agree to meet for dinner on Saturday at 7 PM.",
+        "Carlton is free on Saturday.",
+        "Ana wants to avoid Carlton getting lost or being late."
+      ],
+      "decisions": [
+        "None"
+      ],
+      "action_items": [],
+      "sentiment": "positive"
+    },
+    "repaired": false,
+    "remaining_errors": []
+  }
+]
