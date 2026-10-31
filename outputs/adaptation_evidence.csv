@@ -1,0 +1,4 @@
+,rouge1,rouge2,rougeL,unsupported_entity_rate,constraint_compliance,sec_per_dialogue
+prompting: zero-shot,0.3933,0.1768,0.3057,0.0,0.35,0.955
+prompting: static few-shot,0.507,0.2612,0.4089,0.0,0.775,0.6029
+RAG-for-exemplars (retrieved few-shot + role + constraints),0.4819,0.2375,0.3867,0.0,0.8,0.3787
