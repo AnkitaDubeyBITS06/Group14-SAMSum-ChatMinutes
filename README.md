@@ -28,7 +28,7 @@ It runs on **Qwen2.5-1.5B-Instruct**, a small pretrained decoder-only LLM from H
 | Tool-calling specification and demonstration | Report §11 and Appendix C; `outputs/E5_tool_schemas.json`, `outputs/E5_tool_traces.json`, `outputs/E7_final_system_demos.json` |
 | Evaluation and failure-analysis tables | Report §13–14; `outputs/evaluation_summary.csv`, `outputs/rouge_by_length.csv`, `outputs/E6_failure_analysis.csv` |
 | Responsible-use test | Report §15; `outputs/responsible_use_test.json` |
-| Group demonstration (8–10 min) | `presentation/` |
+| Group demonstration (8–10 min) | `Shared Drive: https://drive.google.com/file/d/1bHieF-Man1T126lLxUtLRwKanpK9lT2H/view?usp=sharing` |
 | Individual contribution statement | Report Appendix E |
 
 ## Key design decisions
