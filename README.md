@@ -77,10 +77,9 @@ SAMSum (Gliwa et al., 2019) contains chats written by linguists for the dataset,
 
 | Member | Main contribution |
 |---|---|
-| Ankita Dubey | Problem definition; dataset preparation and 40-chat evaluation subset; responsible-use review; limitations and conclusion; final report |
-| Narayan Prasad | Model comparison and selection; architecture walkthrough; application pipeline design |
+| Ankita Dubey | Problem definition; dataset preparation and 40-chat evaluation subset;  Model comparison and selection; architecture walkthrough; application pipeline design |
 | Aswathi Anandraj | E1 baseline; E2 prompt engineering; reusable prompt template; E3 decoding study; adaptation decision |
-| Buvaneshwari E | E4 JSON schema and validation; E5 tool calling; E7 final system and demos; evaluation summary; E6 failure analysis |
+| Buvaneshwari E | E4 JSON schema and validation; E5 tool calling; E7 final system and demos; evaluation summary; E6 failure analysis; responsible-use review; limitations and conclusion |
 
 ## References
 
